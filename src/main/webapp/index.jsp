@@ -3,9 +3,6 @@
 <html>
 <head>
     <title>JSP - Paula will do java now !</title>
-    <script>
-        alert("test");
-    </script>
 </head>
 <body>
 <h1><%= "Hello World ,Paula is doing java!" %>
